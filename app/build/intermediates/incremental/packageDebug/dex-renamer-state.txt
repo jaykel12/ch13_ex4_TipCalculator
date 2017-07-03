@@ -1,0 +1,7 @@
+#Mon Jul 03 14:08:29 PDT 2017
+base.0=C\:\\Users\\jayke\\Documents\\android\\ch13_ex4_TipCalculator\\ch13_ex4_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2cd3d7a3593b3b4a97b46ca96a901e3d7ce112e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jayke\\Documents\\android\\ch13_ex4_TipCalculator\\ch13_ex4_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38a1b7494b202d2e082aac93afadf8051c1f98e9\\classes.dex
+base.1=C\:\\Users\\jayke\\Documents\\android\\ch13_ex4_TipCalculator\\ch13_ex4_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38a1b7494b202d2e082aac93afadf8051c1f98e9
+file.0=C\:\\Users\\jayke\\Documents\\android\\ch13_ex4_TipCalculator\\ch13_ex4_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2cd3d7a3593b3b4a97b46ca96a901e3d7ce112e\\classes.dex
